@@ -1,0 +1,18 @@
+[
+  {
+    "record_id": "classroom-pii-redaction-lesson-a",
+    "source": "school-synthetic",
+    "revision": 1,
+    "observed_at": "2026-11-18T09:00:00Z",
+    "text": "课堂文本脱敏复核器需要保留脱敏片段和原文依据。",
+    "context": "教研演练"
+  },
+  {
+    "record_id": "classroom-pii-redaction-lesson-b",
+    "source": "school-synthetic",
+    "revision": 1,
+    "observed_at": "2026-11-18T09:05:00Z",
+    "text": "教师复核脱敏片段时应查看课程语境。",
+    "context": "课堂练习"
+  }
+]
